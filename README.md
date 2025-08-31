@@ -1,6 +1,6 @@
 # Python Practice
 This is my Python practice repository! 🐍
-This repo contains small Python scripts, exercises, and projects to help me improve my coding skills.
+This repo contains small Python scripts, exercises, and projects that helped me improve my coding skills.
 
 ## 🛠️ Requirements
 Most of the scripts require only Python 3.x.
